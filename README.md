@@ -5,7 +5,7 @@
   <a href="https://github.com/brunobatistabbf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunobatistabbf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobatistabbf&layout=compact&langs_count=7&theme=dracula"/>
-    <img align="right"  height="160em" alt="bruno-image" src="https://1.bp.blogspot.com/-YqXS9ZavXvw/YUP8eQ5yxLI/AAAAAAAAUuI/l-b1qq7D1j0F7QALA-WR5dUZAahBspRjQCLcBGAsYHQ/s320/eu.png">
+    <img align="right"  height="150em" alt="bruno-image" src="https://1.bp.blogspot.com/-YqXS9ZavXvw/YUP8eQ5yxLI/AAAAAAAAUuI/l-b1qq7D1j0F7QALA-WR5dUZAahBspRjQCLcBGAsYHQ/s320/eu.png">
 </div>
 
   ##
