@@ -1,5 +1,5 @@
 
- <h1>Olá, eu sou o  <a href="https://www.linkedin.com/in/bruno-batistabbf/">Bruno</a> <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30 px"> </h1>
+ <h1>Olá, eu sou o  <a href="https://www.linkedin.com/in/bruno-batistabbf/">Bruno</a>  </h1>
 
  <div>
   <a href="https://github.com/brunobatistabbf">
